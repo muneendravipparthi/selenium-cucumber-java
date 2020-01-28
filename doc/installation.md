@@ -10,7 +10,7 @@
 - Install Java and set path.
 - Install Maven and set path.
 - Clone respective repository or download zip.
-	- maven : https://github.com/selenium-cucumber/selenium-cucumber-java-maven-example
+	- maven : https://github.com/muneendravipparthi/selenium-cucumber-java-maven-example
 
 # Running features
 - Goto project directory.
@@ -25,4 +25,4 @@
 - Use mvn test -Dcucumber.options="–-plugin html:target/result-html" to generate a HTML report.
 - Use mvn test -Dcucumber.options="–-plugin json:target/result-json" to generate a JSON report.
 
-- Now Write your own tests in feature file using <a href="https://github.com/selenium-cucumber/selenium-cucumber-java/blob/master/doc/canned_steps.md">Predefined Steps</a> .
+- Now Write your own tests in feature file using <a href="https://github.com/muneendravipparthi/selenium-cucumber-java/blob/master/doc/canned_steps.md">Predefined Steps</a> .
